@@ -4,7 +4,7 @@
 
 ## Инструкция по применению (Windows 10 / 11, Server 2019)
 
-1. **Скачайте и распакуйте [Excel PDF Exporter](https://github.com/AniCatPro/Excel-PDF-Exporter/archive/refs/tags/Main.zip) репозитория. Запустите**
+1. **Скачайте и распакуйте [Excel PDF Exporter](https://github.com/AniCatPro/Excel-PDF-Exporter/archive/refs/tags/Main.zip) репозитория. Запустите `.exe`.**
 2. **В публикаторе ArchiCAD укажите папку `import` для экспорта .xlsx файла**, полученного из пред настроенной таблицы ArchiCAD.
 3. Подождите, пока файл не пропадет из папки `import`.
 4. Откройте папку `Export`, затем папку с наименованием вашего файла. Внутри нее находятся 4 файла:
